@@ -26,9 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: https://x.com/djlee0313
-    github:  https://github.com/duncan020313
-    linkedIn: https://www.linkedin.com/in/%EB%8F%99%EC%9E%AC-%EC%9D%B4-b837a824b/
+    twitter: djlee0313
+    github:  duncan020313
+    linkedIn: in/%EB%8F%99%EC%9E%AC-%EC%9D%B4-b837a824b/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
