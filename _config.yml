@@ -2,9 +2,11 @@ title: Dongjaelee Blog
 author: duncan020313
 email: dongjae.lee@prosys.kaist.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Researcher Dongjae Lee’s Blog
+I specialize in software engineering automation driven by large language models (LLMs) and intelligent agents,
+with a research focus at the intersection of programming languages and modern machine learning.
+My goal is to design robust and trustworthy AI-based programming systems by integrating advanced static analysis methodologies
+and formal verification techniques, ensuring both safety and reliability in AI-driven software development.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -46,6 +48,11 @@ plainwhite:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
+  navigation:
+    - title: Study
+      url: "/study"
+    - title: About
+      url: "/about"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
