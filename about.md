@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 # Dongjae Lee
 
 - **Graduate Student in School of Computing at KAIST**
