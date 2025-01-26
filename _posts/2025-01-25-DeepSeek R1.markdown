@@ -2,7 +2,7 @@
 layout: post
 title:  "About DeepSeek R1"
 date:   2025-01-25
-categories: AI
+categories: AI, Reasoning Model, Reinforcement Learning
 ---
 ## 배울 점
 - 모델에게 직접적인 추론 방법을 가르치는 것보다 적절히 Incentive를 주는 것이 훨씬 효과적임
