@@ -19,12 +19,11 @@
 - M.S. in Computer Science and Engineering at KAIST (Mar 2024 - Present)
 
 ## Publications
-
 1. Safeguarding Mobile GUI Agent via Logic-based Action Verification (Preprint)
-   - Jungjae Lee*, Dongjae Lee*, Chihun Choi, Youngmin Im, Jaeyoung Wi, Kihong Heo, Sangeun Oh, Sunjae Lee, Insik Shin
+   - Jungjae Lee*, **Dongjae Lee***, Chihun Choi, Youngmin Im, Jaeyoung Wi, Kihong Heo, Sangeun Oh, Sunjae Lee, Insik Shin
    - [Paper](https://arxiv.org/abs/2503.18492)
 
 ## Projects
 1. BugSynth: Automatic Synthesis of Realistic and Reliable Bug Benchmark
-   - Minsol Park, Dongjae Lee, Kihong Heo
+   - Minsol Park, **Dongjae Lee**, Kihong Heo
    - [Project Page](https://prosys.kaist.ac.kr/bugsynth)
